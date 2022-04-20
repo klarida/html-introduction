@@ -1,0 +1,40 @@
+body{
+    background-color:powderblue; text-align: center;
+}
+
+.table{
+    border: 10 solid;
+    border-style: dotted;
+}
+.tabelinfo{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+.t1{
+  font-size: 15px;  
+}
+.t2{
+  font-size: 20px;  
+  color: blueviolet
+}
+img{
+text-align: center;
+    top: left;
+}
+
+.t3{
+    color: blueviolet;
+}t4{
+    text-align: center;}
+it{
+    text-align: center;
+}
+it{
+    text-align: center;
+}
+table{
+    margin: 0 auto;   
+    }
+ 
