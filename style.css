@@ -1,5 +1,5 @@
 body{
-    background-color:powderblue; text-align: center;
+    background-color:#620a6e; text-align: center;
 }
 
 .table{
@@ -36,5 +36,5 @@ it{
 }
 table{
     margin: 0 auto;   
+    color: green;
     }
- 
